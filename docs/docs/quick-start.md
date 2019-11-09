@@ -1,66 +1,66 @@
 ---
-title: Quick Start
+title: Богино заавар
 ---
 
-This quick start is intended for intermediate to advanced developers. For a gentler intro to Gatsby, [head to our tutorial](/tutorial/)!
+Энэхүү товчхон заавар нь дунд болон түүнээс ахисан туршлагатай хѳгжүүлэгчдэд зориулсан. Анхан шатнаас нь үзэх бол [манай заавар хэсгээс үзнэ үү](/tutorial/)!
 
-## Use the Gatsby CLI
+## Gatsby команд мѳрийн хэрэгсэл ашиглах
 
 <EggheadEmbed
   lessonLink="https://egghead.io/lessons/gatsby-quick-start-with-gatsby-create-develop-and-build-gatsby-sites-from-the-command-line"
   lessonTitle="Quick Start with Gatsby: Create, Develop, and Build Gatsby Sites From the Command Line"
 />
 
-**Note**: this video uses `npx`, which is a tool to execute an npm package without first installing it. Running the command `npx gatsby new` is the same as running `gatsby new` after installing the gatsby-cli on your computer.
+**Тэмдэглэл**: энэ бичлэг нь суулгахгүйгээр npm пакеж ашигладаг `npx` гэх багаж ашиглаж байгаа. `npx gatsby new` гэж ажиллуулах нь, компьютер дээрээ gatsby-cli суулгаад `gatsby new` гэж ажиллуулсантай адил юм.
 
-### Install the Gatsby CLI.
+### Gatsby команд мѳрийн хэрэгсэл суулгах нь
 
 ```shell
 npm install -g gatsby-cli
 ```
 
-### Create a new site.
+### Шинэ веб сайт үүсгэх.
 
 ```shell
 gatsby new gatsby-site
 ```
 
-### Change directories into site folder.
+### Үүсгэсэн сайтын хавтасруу шилжинэ.
 
 ```shell
 cd gatsby-site
 ```
 
-### Start development server.
+### Хѳгжүүлэлтийн сервер асаах.
 
 ```shell
 gatsby develop
 ```
 
-Gatsby will start a hot-reloading development environment accessible by default at `localhost:8000`.
+Gatsby тохиргоогүйгээр `localhost:8000` дээр хандах боломжтой, ѳѳрчлѳлтийг шууд харуулах хѳгжүүлэлтийн орчин ажиллуулдаг.
 
-Try editing the JavaScript pages in `src/pages`. Saved changes will live reload in the browser.
+`src/pages` доторх JavaScript хуудсуудыг засварлаад, хадгалах үед, ѳѳрчлѳлт нь хѳтѳчийг дахин дууддаг.
 
-### Create a production build.
+### Продакшн бэлэн болгох
 
 ```shell
 gatsby build
 ```
 
-Gatsby will perform an optimized production build for your site, generating static HTML and per-route JavaScript code bundles.
+Gatsby route бүрт JavaScript код бүхий статик HTML хуудсуудыг продакшнд бэлэн болгон янзалж тохируулсан сайт болгон үүсгэдэг.
 
-### Serve the production build locally.
+### Ѳѳрийн компьютер дээр продакшн хувилбар ажиллуулах
 
 ```shell
 gatsby serve
 ```
 
-Gatsby starts a local HTML server for testing your built site. Remember to build your site using `gatsby build` before using this command.
+Gatsby тестлэх зорилгоор HTML сервер ажиллуулдаг. Ингэж шалгахын тулд заавал `gatsby build` ажилласан байх хэрэгтэйг санаарай.
 
-### Access documentation for CLI commands
+### Команд мѳрийн хэрэгслийн заавруудыг харах
 
-To see detailed documentation for the CLI commands, run `gatsby --help` in the terminal.
+Дэлгэрэнгүй зааварыг харах бол terminal дээр `gatsby --help` гэж ажиллуулна.
 
-For specific commands, run `gatsby COMMAND_NAME --help` e.g. `gatsby new --help`.
+Тодорхoй командын талаар бол, `gatsby КОМАНД НЭР --help` Жнь: `gatsby new --help`.
 
-For more information on the Gatsby CLI, visit the [CLI reference](/docs/gatsby-cli/) section of the docs.
+Gatsby команд мѳрийн хэрэгслийн талаар илүү дэлгэрэнгүйг [КМХ тухай](/docs/gatsby-cli/) хэсгээс харна уу.
