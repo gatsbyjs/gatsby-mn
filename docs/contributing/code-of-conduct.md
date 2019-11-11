@@ -1,76 +1,49 @@
 ---
-title: Gatsby Contributor Covenant Code of Conduct
+title: Gatsby хувь нэмэр оруулагчийн баримтлах журам
 ---
 
-## Our Pledge
+## Бидний тангараг
 
-In the interest of fostering an open and welcoming environment, we as
-contributors and maintainers pledge to making participation in our project and
-our community a harassment-free experience for everyone, regardless of age, body
-size, disability, ethnicity, gender identity and expression, level of
-experience, nationality, personal appearance, race, religion, or sexual identity
-and orientation.
+Нээлттэй, уриалагахан орчин бүрдүүлэхийн тулд, бид хөгжүүлэгчид, оролцогчид энэхүү төсөлдөө хувь нэмэрээ оруулахаас гадна, нас, биеийн хэмжээ, тахир дутуу байдал, яс үндэс, хүйс, туршлага, үндэстэн, харагдац, арьс өнгө, шашин шүтлэг, бэлгийн чиг хандлагаар нь ялгаварлан гадуурхахгүй.
 
-## Our Standards
+## Манай стандарт
 
-Examples of behavior that contributes to creating a positive environment
-include:
+Эерэг орчин бүрдүүлэх энгийн жишээ:
 
-- Using welcoming and inclusive language
-- Being respectful of differing viewpoints and experiences
-- Gracefully accepting constructive criticism
-- Focusing on what is best for the community
-- Showing empathy towards other community members
+- Уриалагахан, зөөлөн үгс ашиглах
+- Туршлага болон харах өнцгийг нь хүндэтгэх
+- Шүүмжийг хүлээж авах
+- Бүлгэмд юу хамгийн сайнаар нөлөөлөх вэ гэдэгт төвлөрөх
+- Бусад гишүүдийн өмнөөс өөрийгөө тавьж бодож үзэх
 
-Examples of unacceptable behavior by participants include:
+Хориглох зүйлс:
 
-- The use of sexualized language or imagery and unwelcome sexual attention or
-  advances
+- Садар үг хэллэг ашиглах, эсвэл үзүүлэх, таагүй, эвгүй зүйлс
 - Trolling, insulting/derogatory comments, and personal or political attacks
-- Public or private harassment
-- Publishing others' private information, such as a physical or electronic
-  address, without explicit permission
-- Other conduct which could reasonably be considered inappropriate in a
-  professional setting
+- Троллдох, доромжлох/үл хүндэтгэсэн сэтгэгдэл, эсвэл улс төрийн болоод хувийн дайралт
+- Нийтэд ил болоод хувийн дарамт, доромжлол
+- Бусдын хувийн мэдээлэл болох жинхэнэ эсвэл электрон хаягыг зөвшөөрөлгүй нийтлэх
+- Бусад журмийг зөрчсөн үйлдлүүд
 
-## Our Responsibilities
+## Хариуцлага
 
-Project maintainers are responsible for clarifying the standards of acceptable
-behavior and are expected to take appropriate and fair corrective action in
-response to any instances of unacceptable behavior.
+Төслийн хянагчид нь учирч болзошгүй эрсдлийг урьдчилан тодорхойлох, учирсан үед засах, тохирсон арга хэмжээх авах үүрэгтэй
 
-Project maintainers have the right and responsibility to remove, edit, or reject
-comments, commits, code, wiki edits, issues, and other contributions that are
-not aligned with this code of conduct, or to ban temporarily or permanently any
-contributor for other behaviors that they deem inappropriate, threatening,
-offensive, or harmful.
+Төслийн хянагчид нь бусад оролцогчдийг хэрвээ аюултай, дүрмийг зөрчсөн, тохирохгүй зүйл хийсэн гэж үзвэл, түр зуур эсвэл бүр мөсөн бандах, мөн энэхүү дүрмээс гадна бусад issue, вики засвар, коммит, сэтгэгдэл зэргийг хянан үзээд устгах, засварлах, түтгэлзэх бүрэн эрхтэй.
 
-## Scope
+## Хэм хэмжээ
 
-This Code of Conduct applies both within project spaces and in public spaces
-when an individual is representing the project or its community. Examples of
-representing a project or community include using an official project e-mail
-address, posting via an official social media account, or acting as an appointed
-representative at an online or offline event. Representation of a project may be
-further defined and clarified by project maintainers.
+Энэхүү журам нь төслийг болоод бүлгэмийг дотоод болоод олон нийтэд төлөөлж буй хэнд ч хамаатай. Жишээ нь уг төслийг эсвэл бүлгэмийг түүний албан ёсны имэйл хаяг, олон нийтийн харилцааны сүлжээнд нийтлэх, цахим болоод цахим бус өдөрлөгүүдэд албан байдлаар төлөөлөх. Төслийг төлөөлөх байдлыг цаашдаа хянагч нар нэмэлтээр тодорхойлогдоно.
 
-## Enforcement
+## Шаардлага
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported by contacting the project team at
-[conduct@gatsbyjs.com](mailto:conduct@gatsbyjs.com). All complaints will be
-reviewed and investigated and will result in a response that is deemed necessary
-and appropriate to the circumstances. The project team is obligated to maintain
-confidentiality with regard to the reporter of an incident. Further details of
-specific enforcement policies may be posted separately.
+Дээрэнгүй, доромжлох үйлдлүүд, мөн байж боломгүй зан авир гарсан үед төслийн багийн [conduct@gatsbyjs.com](mailto:conduct@gatsbyjs.com) хаягт мэдэгдэх. Бүх гомдол хянан шалгагдаж, шаардлагатай арга хэмжээг нөхцөл байдалд тааруулан авагдана. Төслийн баг тухайн хэргийн мэдээллэгчийг нууцлана. Цаашдын шаардлага тусдаа нийтлэгдэх магадлалтай
 
-Project maintainers who do not follow or enforce the Code of Conduct in good
-faith may face temporary or permanent repercussions as determined by other
-members of the project's leadership.
+Энэхүү шаардлагыг биелүүлээгүй нөхцөлд түр зуурын болон бүр мөсөн арга хэмжээг бусад гишүүд болон удирдагчийн хамт шийдвэрлэнэ.
 
-## Attribution
+## Эх сурвалж
 
-This Code of Conduct is adapted from the Contributor Covenant, version 1.4.
+Энэхүү журам нь Баримтлах журмын 1.4 хувилбараас авсан. 
 
-- homepage: https://contributor-covenant.org
-- version: https://contributor-covenant.org/version/1/4/
+- нүүр хуудас: https://contributor-covenant.org
+- хувилбар: https://contributor-covenant.org/version/1/4/
