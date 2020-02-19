@@ -13,35 +13,61 @@ title: Богино заавар
 
 **Тэмдэглэл**: энэ бичлэг нь суулгахгүйгээр npm пакеж ашигладаг `npx` гэх багаж ашиглаж байгаа. `npx gatsby new` гэж ажиллуулах нь, компьютер дээрээ gatsby-cli суулгаад `gatsby new` гэж ажиллуулсантай адил юм.
 
+<<<<<<< HEAD
 ### Gatsby команд мѳрийн хэрэгсэл суулгах нь
+=======
+### Install the Gatsby CLI
+>>>>>>> 90932a06db2e297cf416552b84e48b4b82e56fbc
 
 ```shell
 npm install -g gatsby-cli
 ```
 
+<<<<<<< HEAD
 ### Шинэ веб сайт үүсгэх.
+=======
+> The above command installs Gatsby CLI globally on your machine.
+
+### Create a new site
+>>>>>>> 90932a06db2e297cf416552b84e48b4b82e56fbc
 
 ```shell
 gatsby new gatsby-site
 ```
 
+<<<<<<< HEAD
 ### Үүсгэсэн сайтын хавтасруу шилжинэ.
+=======
+### Change directories into site folder
+>>>>>>> 90932a06db2e297cf416552b84e48b4b82e56fbc
 
 ```shell
 cd gatsby-site
 ```
 
+<<<<<<< HEAD
 ### Хѳгжүүлэлтийн сервер асаах.
+=======
+### Start development server
+>>>>>>> 90932a06db2e297cf416552b84e48b4b82e56fbc
 
 ```shell
 gatsby develop
 ```
 
+<<<<<<< HEAD
 Gatsby тохиргоогүйгээр `localhost:8000` дээр хандах боломжтой, ѳѳрчлѳлтийг шууд харуулах хѳгжүүлэлтийн орчин ажиллуулдаг.
+=======
+Gatsby will start a hot-reloading development environment accessible by default at `http://localhost:8000`.
+>>>>>>> 90932a06db2e297cf416552b84e48b4b82e56fbc
 
 `src/pages` доторх JavaScript хуудсуудыг засварлаад, хадгалах үед, ѳѳрчлѳлт нь хѳтѳчийг дахин дууддаг.
 
+<<<<<<< HEAD
 ### Продакшн бэлэн болгох
+=======
+### Create a production build
+>>>>>>> 90932a06db2e297cf416552b84e48b4b82e56fbc
 
 ```shell
 gatsby build
@@ -49,7 +75,11 @@ gatsby build
 
 Gatsby route бүрт JavaScript код бүхий статик HTML хуудсуудыг продакшнд бэлэн болгон янзалж тохируулсан сайт болгон үүсгэдэг.
 
+<<<<<<< HEAD
 ### Ѳѳрийн компьютер дээр продакшн хувилбар ажиллуулах
+=======
+### Serve the production build locally
+>>>>>>> 90932a06db2e297cf416552b84e48b4b82e56fbc
 
 ```shell
 gatsby serve
